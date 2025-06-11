@@ -18,11 +18,23 @@ To address this security event, the network security team implemented:
 
 -An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
-As a cybersecurity analyst, you are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). You will use the CSF to help you navigate through the different steps of analyzing this cybersecurity event and integrate your analysis into a general security strategy
-
 <h2>Project Description</h2>
 
 This project aims to enhance the cybersecurity posture of the organization by addressing vulnerabilities and improving resilience against cyber threats, particularly Distributed Denial of Service (DDoS) attacks. Using the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF), the project will focus on identifying security risks, implementing protective measures, enhancing detection capabilities, responding effectively to incidents, and ensuring efficient recovery processes. The goal is to establish a comprehensive and proactive security strategy that safeguards the organization's critical assets and ensures business continuity.
+
+<h2>Task</h2>
+
+As a cybersecurity analyst, you are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). You will use the CSF to help you navigate through the different steps of analyzing this cybersecurity event and integrate your analysis into a general security strategy. 
+
+-Identify security risks through regular audits of internal networks, systems, devices, and access privileges to identify potential gaps in security. 
+
+-Protect internal assets through the implementation of policies, procedures, training and tools that help mitigate cybersecurity threats. 
+
+-Detect potential security incidents and improve monitoring capabilities to increase the speed and efficiency of detections. 
+
+-Respond to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
+
+-Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
 
 <h2>Incident report analysis</h2>
 
